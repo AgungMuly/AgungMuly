@@ -1,6 +1,6 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Banner](https://github.com/AgungMuly/AgungMuly/blob/main/assets/name.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Agung</h2>
+<h2>👋 Hey there! I'm Agung</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Agung -->
 
@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at agmulxbone619@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Coding" width="240px" src="https://raw.githubusercontent.com/AgungMuly/AgungMuly/main/assets/cod.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
